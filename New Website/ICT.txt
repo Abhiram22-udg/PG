@@ -1,0 +1,55 @@
+ICT:
+ICT/Information Communication Technology has been my one of my 
+favourite subjects this entire year(Probably because of my liking towards
+computers) and I have paid a lot of attention during the class and I have
+done a lot of things using the things I know and what I was taught.
+
+Python:
+
+I learnt the basics of Python and I have done a few programs as assignments
+as well. The tool that was used to make all of this was Jupyter Notebook.
+A few of the projects that I built myself are these.
+
+A Leap year program:
+
+[The file]
+
+A calculator:
+
+[The file]
+
+A BMI Calculator:
+
+[The file]
+
+
+Artificial Intelligence:
+
+Artificial intelligence (AI) refers to a computer's or a robot controlled 
+by a computer's capability to carry out tasks that are generally carried out 
+by humans since they call for human intelligence and judgement. 
+One of the most notable examples of AI in daily life is seen 
+in Apple's Siri, Google Now, Amazon's Alexa, and Microsoft's Cortana.
+
+Natural Intelligence:
+
+The capacity to recognise, categorise, and manipulate parts of the 
+surrounding environment, objects, animals, or plants is known 
+as natural intelligence. Natural intelligence combines 
+several cognitive processes in order to adapt to new environments. 
+The human brain is analogue, whereas machines are digital.
+
+Activities:
+
+We were also asked to do an activity which required us to use our
+brains and make a small floorplan of the future house which we 
+desire and add all the technological advancements which would
+further make the house better and our lives easier.
+
+
+[FLOOR PLAN]
+
+
+
+
+

@@ -1,0 +1,63 @@
+MATHS:
+
+Maths, Regarded as the King of Subjects. This year there was a lot 
+of things learnt in Maths but particularly there was this one concept called
+Circles which was actually hard to grasp but pretty easy when understood.
+This year in circle we explored a lot of properties of circles which I will
+present now.
+
+Circles:
+
+Theorem 10.1 : Equal chords of a circle subtend equal angles at the center.
+
+[Picture of the same]
+
+Theorem: 10.2 : If the angles subtended by the chords of a circle at the centre equal, then the chords are equal(Converse)
+
+[Picture of the same]
+
+Theorem 10.3 : The perpendicular from the center of a circle to a chord bisects the chord 
+
+[Picture of the same]
+
+Theorem 10.4 : The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord(Converse)
+
+[Picture of the same]
+
+Theorem 10.5 : There is one and only one circle passing through three given non-collinear points
+
+[Picture of the same]
+
+Theorem 10.6 : Equal chords of a circle are equidistant from the centre.
+
+[Picture of the same]
+
+Theorem 10.7 : Chords equidistant from the centre of a circle are equal in length (Converse)
+
+[Picture of the same]
+
+Theorem 10.8 : The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle
+
+[Pictures of the same]
+
+Theorem 10.9 : Angles in the same segment of a circle are equal
+
+[Pictures of the same]
+
+Theorem 10.10 : If a line segment joining two points subtends equal angles ut other points lying on the same side of the line containing the line segment, four points lie on a circle (i.e. they are concyclic).
+
+[Pictures of the same]
+
+Theorem 10.11 : The sum of either pair of opposite angles of a cyclic quadrilateral is 180º
+
+[Picture of the same]
+
+Theorem 10.12 : If the sum of a pair of opposite angles of a quadrilateral is 180 , the quadrilateral is cyclic
+
+[Picture of the same]
+
+These are the theorems and properties learnt this year in circle and there is 
+one place where these are all used. That is Architecture. They are also in
+designing of all the important mechanisms of cars like wheels,etc.
+
+That concludes the maths page of project graduation.

@@ -1,0 +1,68 @@
+A brief Intro of Science:
+
+The purpose of science is to build and 
+organize knowledge about the universe 
+through testable predictions and explanations.
+
+The gist of this page:
+
+This year, instead of doing the standard presentation of 
+all the topics learnt, we decided to take it up a notch
+by focusing on two specific topics from term-2 syllabus
+and explaining them and their real life applications in
+depth.
+
+Physics:
+
+This year was something else in physics. I heard for the first about a lot of
+the terms which I never heard before. Honestly at the start it scared but I got
+used to It. One specific Topic which I really liked in it was the Universal Law of Gravitation
+from Gravitation.
+
+Universal Law of Gravitation:
+
+Law of Universal Gravitation states that every particle attracts every 
+other particle in the universe with force directly proportional to the 
+product of the masses and inversely proportional to the square of the 
+distance between them.
+
+The formula for that it is :
+
+F = G M<sub>1M<sub>2/d<sup>2
+
+Here,
+
+F = Force
+G = Universal Gravitational Constant
+M<sub>1 = Mass of object 1
+M<sub>2 = Mass of object 2
+d = Distance between both of them.
+
+Universal Gravitational Constant :
+
+In Sir Isaac Newton's law of universal gravitation and Albert Einstein's 
+theory of general relativity, the gravitational constant, indicated by the 
+capital G, is an actual physical constant used to calculate the gravitational 
+effects.
+
+Daily life Uses of the Universal Law of Gravitation :
+
+Law of Universal Gravity is of great importance, as it explains how gravity 
+affects us and our walking on Earth. In other words, it keeps us on Earth 
+so that we can live on Earth and not fly in the air and space.
+
+Industrial uses of Universal Law of Gravitation :
+
+This law aids in the search for new stars and planets in the cosmos. 
+This law aids in determining the masses of the sun, the earth, and other celestial bodies. 
+This law aids in forecasting the tides brought on by the moon's gravitational pull on the earth. 
+This law aids in predicting the motion of celestial bodies.
+
+Therefore, I think it is mostly useful in the space sector and can help understand the 
+universe better.
+
+This is it for my science page.
+
+
+
+
